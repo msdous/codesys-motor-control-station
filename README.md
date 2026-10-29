@@ -114,4 +114,4 @@ The station was verified with 53 numbered test cases plus two extra checks (a 60
 
 ## Author
 
-Messaoudi Abderrahmane, Msc electrical control engineer. Profile URL https://www.linkedin.com/in/abderrahmane-messaoudi-893370305
+Messaoudi Abderrahmane, M.Sc. electrical control engineer. Profile URL https://www.linkedin.com/in/abderrahmane-messaoudi-893370305
