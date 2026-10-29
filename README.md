@@ -78,7 +78,7 @@ so the ramp takes exactly 500 scans (5 s). Stopping from the setpoint takes `tRa
 ## How to run it
 
 1. Install CODESYS V3 and the CODESYS Control Win V3 x64 runtime, and start the runtime.
-2. Open `project/MotorControlStation_v1.0.0.projectarchive` (File > Project Archive > Open).
+2. Download `MotorControlStation_v1.0.0.projectarchive` from the [latest release](https://github.com/YOUR-USERNAME/codesys-motor-control-station/releases/latest) and open it (File > Project Archive > Open).
 3. Set the communication path to the local SoftPLC, then Build, Login and Start.
 4. Open `Visu_Main` and operate the station with the mouse, or drive `GVL_Sim` from a watch window.
 
